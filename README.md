@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekrana21" alt="abhishekrana21" /></a> </p>
 
-- 📝 I regularly write articles on [https://www.zellospark.com/](https://www.zellospark.com/)
-
 - 📫 How to reach me **abhishekrana21092003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
