@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrana21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekrana21" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> - Android  </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> - C  </a> 
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer">  Android  </a> 
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  C  </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  C++  </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  C#  </a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">  Firebase  </a> 
