@@ -4,12 +4,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrana21&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekrana21" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> Android </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> C </a> </p>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> C++ </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> C# </a> </p>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> Firebase </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> Kotlin </a> </p>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> MySQL </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> Python </a> </p>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> Android </a> </p>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> C </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> C++ </a> </p>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> C# </a> </p>
+<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> Firebase </a> </p>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> Kotlin </a> </p>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> MySQL </a> </p>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> Python </a> </p>
 <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> Unity </a> </p>
-<p align="center"><a href="https://abhishekrana.com/MagiPic/MagiPic.apk">🔗 APK Link</a></p>
 - 📫 How to reach me **abhishekrana21092003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
