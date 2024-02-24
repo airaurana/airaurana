@@ -1,3 +1,1 @@
-### [Connect with me 💬](https://abhishekrana.com) 
-📫 Email: **abhishekrana21092003@gmail.com**
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekrana21&label=Visitors&color=0e75b6&style=flat" alt="abhishekrana21" /> </p>
+01001000 01101001 00100000 01110100 01101000 01100101 01110010 01100101 00100000 00111010 00101001
